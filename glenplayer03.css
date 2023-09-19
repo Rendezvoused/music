@@ -12,6 +12,7 @@
     position:fixed;
     bottom:0;margin-bottom:0;
     width:var(--MusicBox-Width);
+    margin-top:var(--Music-Top);
     display:none;
     z-index:699;
 }
